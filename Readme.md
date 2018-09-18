@@ -11,7 +11,7 @@ correctness in classifying data with respect to accuracy and efficiency of each 
 </p></br>
 
 <h2> Results </h2>
-<img src="/screenshot/results.png" width = 50%>
+<img src="/screenshot/results.png" width = 70%>
 
 This work is a part of my Minor Project under Mr. Arvind Kumar Pal, Assistant Professor, Manipal University Jaipur 
 
