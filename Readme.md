@@ -7,11 +7,11 @@ correctness in classifying data with respect to accuracy and efficiency of each 
 <b>Jupyter Notebook : </b> [/Breast_Cancer_Prediction.ipynb)](/Breast_Cancer_Prediction.ipynb)<br>
 <b>Jupyter Notebook (ANN implementation): </b> [/Neural_Net_Breast_Cancer.ipynb)](/Neural_Net_Breast_Cancer.ipynb)<br>
 <p id="img_cont">
-	<img src="accuracy.PNG">
-	<img src="loss.PNG">
+	<img src="/screenshot/accuracy.png">
+	<img src="/screenshot/loss.png">
 </p><br>
 ## Results
-<img src="results.PNG">
+<img src="/screenshot/results.png">
 
 This work is a part of my Minor Project under Mr. Arvind Kumar Pal, Assistant Professor, Manipal University Jaipur 
 
